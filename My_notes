@@ -1,0 +1,3 @@
+Use HyperParameter Tuning in case of Gradient Boosting and Random Forest Method
+KNN and SVM to be used only for the small datasets
+Logistic Regression to be used only for classification problem and for regression problem use Linear Regression
